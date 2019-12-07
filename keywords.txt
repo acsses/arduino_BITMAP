@@ -11,3 +11,6 @@ Sample　    KEYWORD1
 # Methods and Functions (KEYWORD2)
 #######################################
 BITMAPDecoder　    KEYWORD2
+checkFile　    KEYWORD2
+readPalette　    KEYWORD2
+readPixel　    KEYWORD2
