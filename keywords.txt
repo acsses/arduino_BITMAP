@@ -14,3 +14,7 @@ BITMAPDecoder　    KEYWORD2
 checkFile　    KEYWORD2
 readPalette　    KEYWORD2
 readPixel　    KEYWORD2
+readPixelMonotone　    KEYWORD2
+readPixel4bit　    KEYWORD2
+readPixel8bit　    KEYWORD2
+readPixel24bit　    KEYWORD2
