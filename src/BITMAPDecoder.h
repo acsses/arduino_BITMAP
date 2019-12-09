@@ -7,7 +7,7 @@ typedef struct PIXEL{
   int a;
   int r;
   int g;
-   b;
+  int b;
 };
 
 class BITMAPDecoder{
