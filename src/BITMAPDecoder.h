@@ -4,10 +4,10 @@
 #include <FS.h>
 
 typedef struct PIXEL{
-  unsigned char a;
-  unsigned char r;
-  unsigned char g;
-  unsigned char b;
+  int a;
+  int r;
+  int g;
+   b;
 };
 
 class BITMAPDecoder{
